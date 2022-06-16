@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Edem97
 - 👀 I’m interested in Python, Matlab and Data Science
-- 🌱 I’m currently learning Data Science
 - 📫 How to reach me @honu___ on Twitter 
 
 <!---
